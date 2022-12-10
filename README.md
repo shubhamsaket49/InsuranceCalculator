@@ -1,2 +1,2 @@
 # InsuranceCalculator
-C# Console Application for Insurance Policy Calculator
+C# Console Application for Insurance Premium Calculator
